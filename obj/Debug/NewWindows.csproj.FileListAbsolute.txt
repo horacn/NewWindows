@@ -1,0 +1,31 @@
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\bin\Debug\NewWindows.exe.config
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\bin\Debug\NewWindows.exe
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\bin\Debug\NewWindows.pdb
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\obj\Debug\NewWindows.csprojResolveAssemblyReference.cache
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\obj\Debug\NewWindows.Form1.resources
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\obj\Debug\NewWindows.Properties.Resources.resources
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\obj\Debug\NewWindows.csproj.GenerateResource.Cache
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\obj\Debug\NewWindows.exe
+d:\用户目录\documents\visual studio 2012\Projects\CH9\NewWindows\obj\Debug\NewWindows.pdb
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\bin\Debug\NewWindows.exe.config
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.exe
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.pdb
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\bin\Debug\NewWindows.exe
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\bin\Debug\NewWindows.pdb
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.Form1.resources
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.Properties.Resources.resources
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.csproj.GenerateResource.Cache
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.csprojResolveAssemblyReference.cache
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.ReadText.resources
+H:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.FrmImages.resources
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\bin\Debug\NewWindows.exe.config
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.exe
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.pdb
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\bin\Debug\NewWindows.exe
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\bin\Debug\NewWindows.pdb
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.csprojResolveAssemblyReference.cache
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.Form1.resources
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.FrmImages.resources
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.Properties.Resources.resources
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.ReadText.resources
+F:\S2\C#-OOP\Chapter09\CH9\NewWindows\obj\Debug\NewWindows.csproj.GenerateResource.Cache
